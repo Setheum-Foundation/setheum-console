@@ -2,7 +2,7 @@
   "author": "Jaco Greeff <jacogr@gmail.com>",
   "bugs": "https://github.com/setheum-js/console/issues",
   "description": "An Apps portal into the Polkadot network",
-  "homepage": "https://github.com/setheum-js/console#readme",
+  "homepage": "https://setheum-js.github.io/console",
   "license": "Apache-2",
   "name": "polkadot-apps",
   "packageManager": "yarn@3.0.1",
