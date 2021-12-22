@@ -2,14 +2,14 @@
   "author": "Jaco Greeff <jacogr@gmail.com>",
   "bugs": "https://github.com/setheum-js/console/issues",
   "description": "An Apps portal into the Polkadot network",
-  "homepage": "https://setheum-js.github.io/console",
+  "homepage": "https://setheum-foundation.github.io/console/packages/apps-electron/build/electron.js",
   "license": "Apache-2",
   "name": "polkadot-apps",
   "packageManager": "yarn@3.0.1",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/setheum-js/console.git"
+    "url": "https://setheum-foundation.github.io/console/packages/apps-electron/build/electron.js"
   },
   "sideEffects": false,
   "version": "0.98.2-121",
